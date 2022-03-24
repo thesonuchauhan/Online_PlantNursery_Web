@@ -1,0 +1,1 @@
+web: gunicorn Online_Nursery_Shop.wsgi --log-file -
